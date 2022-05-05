@@ -2,7 +2,7 @@ import scrapy
 import os
 
 
-PATH = '/Users/theovaneccelpoel/PokemonCrawler/PokemonCrawler/CSV/'
+PATH = '/Users/TheoV22/PokemonCrawler/PokemonCrawler/CSV/'
 
 
 class PokemonSpider(scrapy.Spider):
