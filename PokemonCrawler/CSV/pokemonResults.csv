@@ -1,0 +1,454 @@
+name,attack1,attack2,attack3,attack4,attack5,attack6,attack7,attack8,attack9,attack10,attack11,attack12,attack13,attack14,attack15,attack16,attack17
+"
+		Bulbasaur
+		",Tackle,Growl,Leech Seed,Vine Whip,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,Growth,Synthesis,Solarbeam,,,,,,
+"
+		Blastoise
+		",Tackle,Tail Whip,Bubble,Withdraw,Tail Whip,Bubble,Withdraw,Water Gun,Bite,Rapid Spin,Protect,Rain Dance,Skull Bash,Hydro Pump,,,
+"
+		Caterpie
+		",Tackle,String Shot,,,,,,,,,,,,,,,
+"
+		Ivysaur
+		",Tackle,Growl,Leech Seed,Growl,Leech Seed,Vine Whip,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,Growth,Synthesis,Solarbeam,,,,
+"
+		Venusaur
+		",Tackle,Growl,Leech Seed,Vine Whip,Growl,Leech Seed,Vine Whip,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,Growth,Synthesis,Solarbeam,,,
+"
+		Charmander
+		",Scratch,Growl,Ember,Metal Claw,Smokescreen,Scary Face,Flamethrower,Slash,Dragon Rage,Fire Spin,,,,,,,
+"
+		Wartortle
+		",Tackle,Tail Whip,Bubble,Tail Whip,Bubble,Withdraw,Water Gun,Bite,Rapid Spin,Protect,Rain Dance,Skull Bash,Hydro Pump,,,,
+"
+		Charmeleon
+		",Scratch,Growl,Ember,Ember,Metal Claw,Smokescreen,Scary Face,Flamethrower,Slash,Dragon Rage,Fire Spin,,,,,,
+"
+		Squirtle
+		",Tackle,Tail Whip,Bubble,Withdraw,Water Gun,Bite,Rapid Spin,Protect,Rain Dance,Skull Bash,Hydro Pump,,,,,,
+"
+		Charizard
+		",Heat Wave,Scratch,Growl,Ember,Metal Claw,Ember,Metal Claw,Smokescreen,Scary Face,Flamethrower,Wing Attack,Slash,Dragon Rage,Fire Spin,,,
+"
+		Metapod
+		",Harden,Harden,,,,,,,,,,,,,,,
+"
+		Butterfree
+		",Confusion,Confusion,Poisonpowder,Stun Spore,Sleep Powder,Supersonic,Whirlwind,Gust,Psybeam,Safeguard,Silver Wind,,,,,,
+"
+		Pidgeot
+		",Tackle,Sand-attack,Gust,Quick Attack,Sand-attack,Gust,Quick Attack,Whirlwind,Wing Attack,Featherdance,Agility,Mirror Move,,,,,
+"
+		Weedle
+		",Poison Sting,String Shot,,,,,,,,,,,,,,,
+"
+		Beedrill
+		",Fury Attack,Fury Attack,Focus Energy,Twineedle,Rage,Pursuit,Pin Missile,Agility,Endeavor,,,,,,,,
+"
+		Pidgey
+		",Tackle,Sand-attack,Gust,Quick Attack,Whirlwind,Wing Attack,Featherdance,Agility,Mirror Move,,,,,,,,
+"
+		Pidgeotto
+		",Tackle,Sand-attack,Gust,Sand-attack,Gust,Quick Attack,Whirlwind,Wing Attack,Featherdance,Agility,Mirror Move,,,,,,
+"
+		Kakuna
+		",Harden,Harden,,,,,,,,,,,,,,,
+"
+		Rattata
+		",Tackle,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,Pursuit,Super Fang,Endeavor,,,,,,,,,
+"
+		Raticate
+		",Tackle,Tail Whip,Quick Attack,Quick Attack,Hyper Fang,Scary Face,Pursuit,Super Fang,Endeavor,,,,,,,,
+"
+		Spearow
+		",Peck,Growl,Leer,Fury Attack,Pursuit,Aerial Ace,Mirror Move,Drill Peck,Agility,,,,,,,,
+"
+		Fearow
+		",Peck,Growl,Leer,Fury Attack,Leer,Fury Attack,Pursuit,Mirror Move,Drill Peck,Agility,,,,,,,
+"
+		Ekans
+		",Wrap,Leer,Poison Sting,Bite,Glare,Screech,Acid,Stockpile,Swallow,Spit Up,Haze,,,,,,
+"
+		Arbok
+		",Wrap,Leer,Poison Sting,Bite,Poison Sting,Bite,Glare,Screech,Acid,Stockpile,Swallow,Spit Up,Haze,,,,
+"
+		Pikachu
+		",Thundershock,Growl,Tail Whip,Thunder Wave,Quick Attack,Double Team,Slam,Thunderbolt,Agility,Thunder,Light Screen,,,,,,
+"
+		Raichu
+		",Thundershock,Tail Whip,Quick Attack,Thunderbolt,,,,,,,,,,,,,
+"
+		Sandshrew
+		",Scratch,Defense Curl,Sand-attack,Poison Sting,Slash,Swift,Fury Swipes,Sand Tomb,Sandstorm,,,,,,,,
+"
+		Sandslash
+		",Scratch,Defense Curl,Sand-attack,Defense Curl,Sand-attack,Poison Sting,Slash,Swift,Fury Swipes,Sand Tomb,Sandstorm,,,,,,
+"
+		Nidoran (F)
+		",Growl,Scratch,Tail Whip,Double Kick,Poison Sting,Bite,Helping Hand,Fury Swipes,Flatter,Crunch,,,,,,,
+"
+		Nidorina
+		",Growl,Scratch,Tail Whip,Double Kick,Poison Sting,Bite,Helping Hand,Fury Swipes,Flatter,Crunch,,,,,,,
+"
+		Nidoqueen
+		",Scratch,Tail Whip,Double Kick,Poison Sting,Body Slam,Superpower,,,,,,,,,,,
+"
+		Clefable
+		",Sing,Doubleslap,Minimize,Metronome,,,,,,,,,,,,,
+"
+		Nidoran (M)
+		",Leer,Peck,Focus Energy,Double Kick,Poison Sting,Horn Attack,Helping Hand,Fury Attack,Flatter,Horn Drill,,,,,,,
+"
+		Clefairy
+		",Pound,Growl,Encore,Sing,Doubleslap,Follow Me,Minimize,Defense Curl,Metronome,Cosmic Power,Moonlight,Light Screen,Meteor Mash,,,,
+"
+		Nidorino
+		",Leer,Peck,Focus Energy,Double Kick,Poison Sting,Horn Attack,Helping Hand,Fury Attack,Flatter,Horn Drill,,,,,,,
+"
+		Nidoking
+		",Peck,Focus Energy,Double Kick,Poison Sting,Thrash,Megahorn,,,,,,,,,,,
+"
+		Vulpix
+		",Ember,Tail Whip,Roar,Quick Attack,Will-o-wisp,Confuse Ray,Imprison,Flamethrower,Safeguard,Grudge,Fire Spin,,,,,,
+"
+		Ninetales
+		",Ember,Quick Attack,Confuse Ray,Safeguard,Fire Spin,,,,,,,,,,,,
+"
+		Vileplume
+		",Absorb,Aromatherapy,Stun Spore,Mega Drain,Petal Dance,,,,,,,,,,,,
+"
+		Paras
+		",Scratch,Stun Spore,Poisonpowder,Leech Life,Spore,Slash,Growth,Giga Drain,Aromatherapy,,,,,,,,
+"
+		Jigglypuff
+		",Sing,Defense Curl,Pound,Disable,Rollout,Doubleslap,Rest,Body Slam,Mimic,Hyper Voice,Double-edge,,,,,,
+"
+		Zubat
+		",Leech Life,Astonish,Supersonic,Bite,Wing Attack,Confuse Ray,Air Cutter,Mean Look,Poison Fang,Haze,,,,,,,
+"
+		Golbat
+		",Screech,Leech Life,Astonish,Supersonic,Astonish,Supersonic,Bite,Wing Attack,Confuse Ray,Air Cutter,Mean Look,Poison Fang,Haze,,,,
+"
+		Oddish
+		",Absorb,Sweet Scent,Poisonpowder,Stun Spore,Sleep Powder,Acid,Moonlight,Petal Dance,,,,,,,,,
+"
+		Gloom
+		",Absorb,Sweet Scent,Poisonpowder,Sweet Scent,Poisonpowder,Stun Spore,Sleep Powder,Acid,Moonlight,Petal Dance,,,,,,,
+"
+		Wigglytuff
+		",Sing,Disable,Defense Curl,Doubleslap,,,,,,,,,,,,,
+"
+		Parasect
+		",Scratch,Stun Spore,Poisonpowder,Stun Spore,Poisonpowder,Leech Life,Spore,Slash,Growth,Giga Drain,Aromatherapy,,,,,,
+"
+		Venonat
+		",Tackle,Disable,Foresight,Supersonic,Confusion,Poisonpowder,Leech Life,Stun Spore,Psybeam,Sleep Powder,Psychic,,,,,,
+"
+		Venomoth
+		",Silver Wind,Tackle,Disable,Foresight,Supersonic,Supersonic,Confusion,Poisonpowder,Leech Life,Stun Spore,Gust,Psybeam,Sleep Powder,Psychic,,,
+"
+		Diglett
+		",Sand-attack,Scratch,Growl,Magnitude,Dig,Fury Swipes,Mud-slap,Slash,Earthquake,Fissure,,,,,,,
+"
+		Dugtrio
+		",Tri Attack,Scratch,Sand-attack,Growl,Growl,Magnitude,Dig,Fury Swipes,Mud-slap,Sand Tomb,Slash,Earthquake,Fissure,,,,
+"
+		Meowth
+		",Scratch,Growl,Bite,Pay Day,Faint Attack,Screech,Fury Swipes,Slash,Fake Out,Swagger,,,,,,,
+"
+		Persian
+		",Scratch,Growl,Bite,Bite,Pay Day,Faint Attack,Screech,Fury Swipes,Slash,Fake Out,Swagger,,,,,,
+"
+		Psyduck
+		",Water Sport,Scratch,Tail Whip,Disable,Confusion,Screech,Psych Up,Fury Swipes,Hydro Pump,,,,,,,,
+"
+		Golduck
+		",Water Sport,Scratch,Tail Whip,Disable,Tail Whip,Disable,Confusion,Screech,Psych Up,Fury Swipes,Hydro Pump,,,,,,
+"
+		Mankey
+		",Scratch,Leer,Low Kick,Karate Chop,Fury Swipes,Focus Energy,Seismic Toss,Cross Chop,Swagger,Screech,Thrash,,,,,,
+"
+		Primeape
+		",Scratch,Leer,Low Kick,Rage,Low Kick,Karate Chop,Fury Swipes,Focus Energy,Seismic Toss,Rage,Cross Chop,Swagger,Screech,Thrash,,,
+"
+		Growlithe
+		",Bite,Roar,Ember,Leer,Odor Sleuth,Take Down,Flame Wheel,Helping Hand,Agility,Flamethrower,,,,,,,
+"
+		Arcanine
+		",Bite,Roar,Ember,Odor Sleuth,Extremespeed,,,,,,,,,,,,
+"
+		Poliwag
+		",Bubble,Hypnosis,Water Gun,Doubleslap,Rain Dance,Body Slam,Belly Drum,Hydro Pump,,,,,,,,,
+"
+		Poliwrath
+		",Water Gun,Hypnosis,Doubleslap,Submission,Submission,Mind Reader,,,,,,,,,,,
+"
+		Poliwhirl
+		",Bubble,Hypnosis,Water Gun,Hypnosis,Water Gun,Doubleslap,Rain Dance,Body Slam,Belly Drum,Hydro Pump,,,,,,,
+"
+		Abra
+		",Teleport,,,,,,,,,,,,,,,,
+"
+		Kadabra
+		",Teleport,Kinesis,Confusion,Confusion,Disable,Psybeam,Reflect,Recover,Future Sight,Role Play,Psychic,Trick,,,,,
+"
+		Bellsprout
+		",Vine Whip,Growth,Wrap,Sleep Powder,Poisonpowder,Stun Spore,Acid,Sweet Scent,Razor Leaf,Slam,,,,,,,
+"
+		Victreebel
+		",Stockpile,Spit Up,Swallow,Vine Whip,Sleep Powder,Sweet Scent,Razor Leaf,,,,,,,,,,
+"
+		Tentacool
+		",Poison Sting,Supersonic,Constrict,Acid,Bubblebeam,Wrap,Barrier,Screech,Hydro Pump,,,,,,,,
+"
+		Alakazam
+		",Teleport,Kinesis,Confusion,Confusion,Disable,Psybeam,Reflect,Recover,Future Sight,Calm Mind,Psychic,Trick,,,,,
+"
+		Machop
+		",Low Kick,Leer,Focus Energy,Karate Chop,Seismic Toss,Foresight,Revenge,Vital Throw,Submission,Cross Chop,Scary Face,Dynamicpunch,,,,,
+"
+		Machoke
+		",Low Kick,Leer,Focus Energy,Focus Energy,Karate Chop,Seismic Toss,Foresight,Revenge,Vital Throw,Submission,Cross Chop,Scary Face,Dynamicpunch,,,,
+"
+		Machamp
+		",Low Kick,Leer,Focus Energy,Focus Energy,Karate Chop,Seismic Toss,Foresight,Revenge,Vital Throw,Submission,Cross Chop,Scary Face,Dynamicpunch,,,,
+"
+		Weepinbell
+		",Vine Whip,Growth,Wrap,Growth,Wrap,Sleep Powder,Poisonpowder,Stun Spore,Acid,Sweet Scent,Razor Leaf,Slam,,,,,
+"
+		Tentacruel
+		",Poison Sting,Supersonic,Constrict,Supersonic,Constrict,Acid,Bubblebeam,Wrap,Barrier,Screech,Hydro Pump,,,,,,
+"
+		Graveler
+		",Tackle,Defense Curl,Mud Sport,Rock Throw,Mud Sport,Rock Throw,Magnitude,Selfdestruct,Rollout,Rock Blast,Earthquake,Explosion,Double-edge,,,,
+"
+		Golem
+		",Tackle,Defense Curl,Mud Sport,Rock Throw,Mud Sport,Rock Throw,Magnitude,Selfdestruct,Rollout,Rock Blast,Earthquake,Explosion,Double-edge,,,,
+"
+		Ponyta
+		",Quick Attack,Growl,Tail Whip,Ember,Stomp,Fire Spin,Take Down,Agility,Bounce,Fire Blast,,,,,,,
+"
+		Rapidash
+		",Quick Attack,Growl,Tail Whip,Ember,Growl,Tail Whip,Ember,Stomp,Fire Spin,Take Down,Agility,Fury Attack,Bounce,Fire Blast,,,
+"
+		Geodude
+		",Tackle,Defense Curl,Mud Sport,Rock Throw,Magnitude,Selfdestruct,Rollout,Rock Blast,Earthquake,Explosion,Double-edge,,,,,,
+"
+		Slowpoke
+		",Curse,Yawn,Tackle,Growl,Water Gun,Confusion,Disable,Headbutt,Amnesia,Psychic,Psych Up,,,,,,
+"
+		Magnemite
+		",Metal Sound,Tackle,Thundershock,Supersonic,Sonicboom,Thunder Wave,Spark,Lock-on,Swift,Screech,Zap Cannon,,,,,,
+"
+		Magneton
+		",Metal Sound,Tackle,Thundershock,Supersonic,Thundershock,Supersonic,Sonicboom,Thunder Wave,Spark,Lock-on,Tri Attack,Screech,Zap Cannon,,,,
+"
+		Slowbro
+		",Curse,Yawn,Tackle,Growl,Growl,Water Gun,Confusion,Disable,Headbutt,Amnesia,Withdraw,Psychic,Psych Up,,,,
+"
+		Farfetch'd
+		",Peck,Sand-attack,Leer,Fury Attack,Knock Off,Fury Cutter,Swords Dance,Agility,Slash,False Swipe,,,,,,,
+"
+		Doduo
+		",Peck,Growl,Pursuit,Fury Attack,Tri Attack,Rage,Uproar,Drill Peck,Agility,,,,,,,,
+"
+		Dodrio
+		",Peck,Growl,Pursuit,Fury Attack,Pursuit,Fury Attack,Tri Attack,Rage,Uproar,Drill Peck,Agility,,,,,,
+"
+		Seel
+		",Headbutt,Growl,Icy Wind,Aurora Beam,Rest,Take Down,Ice Beam,Safeguard,,,,,,,,,
+"
+		Dewgong
+		",Signal Beam,Headbutt,Growl,Icy Wind,Aurora Beam,Growl,Icy Wind,Aurora Beam,Rest,Sheer Cold,Take Down,Ice Beam,Safeguard,,,,
+"
+		Grimer
+		",Poison Gas,Pound,Harden,Disable,Sludge,Minimize,Screech,Acid Armor,Sludge Bomb,Memento,,,,,,,
+"
+		Muk
+		",Poison Gas,Pound,Harden,Harden,Disable,Sludge,Minimize,Screech,Acid Armor,Sludge Bomb,Memento,,,,,,
+"
+		Onix
+		",Tackle,Screech,Bind,Rock Throw,Harden,Rage,Dragonbreath,Sandstorm,Slam,Iron Tail,Sand Tomb,Double-edge,,,,,
+"
+		Shellder
+		",Tackle,Withdraw,Icicle Spear,Supersonic,Aurora Beam,Protect,Leer,Clamp,Ice Beam,,,,,,,,
+"
+		Cloyster
+		",Withdraw,Supersonic,Aurora Beam,Protect,Spikes,Spike Cannon,,,,,,,,,,,
+"
+		Haunter
+		",Hypnosis,Lick,Spite,Spite,Curse,Night Shade,Confuse Ray,Shadow Punch,Dream Eater,Destiny Bond,Shadow Ball,Nightmare,Mean Look,,,,
+"
+		Gastly
+		",Hypnosis,Lick,Spite,Curse,Night Shade,Confuse Ray,Dream Eater,Destiny Bond,Shadow Ball,Nightmare,Mean Look,,,,,,
+"
+		Gengar
+		",Hypnosis,Lick,Spite,Spite,Curse,Night Shade,Confuse Ray,Shadow Punch,Dream Eater,Destiny Bond,Shadow Ball,Nightmare,Mean Look,,,,
+"
+		Drowzee
+		",Pound,Hypnosis,Disable,Confusion,Headbutt,Poison Gas,Meditate,Psychic,Psych Up,Swagger,Future Sight,,,,,,
+"
+		Exeggutor
+		",Barrage,Hypnosis,Confusion,Stomp,Egg Bomb,,,,,,,,,,,,
+"
+		Hypno
+		",Nightmare,Pound,Hypnosis,Disable,Confusion,Disable,Confusion,Headbutt,Poison Gas,Meditate,Psychic,Psych Up,Swagger,Future Sight,,,
+"
+		Voltorb
+		",Charge,Tackle,Screech,Sonicboom,Spark,Selfdestruct,Rollout,Light Screen,Swift,Explosion,Mirror Coat,,,,,,
+"
+		Exeggcute
+		",Barrage,Uproar,Hypnosis,Reflect,Leech Seed,Confusion,Stun Spore,Poisonpowder,Sleep Powder,Solarbeam,,,,,,,
+"
+		Electrode
+		",Charge,Tackle,Screech,Sonicboom,Screech,Sonicboom,Spark,Selfdestruct,Rollout,Light Screen,Swift,Explosion,Mirror Coat,,,,
+"
+		Krabby
+		",Bubble,Leer,Vicegrip,Harden,Mud Shot,Stomp,Guillotine,Protect,Crabhammer,Flail,,,,,,,
+"
+		Kingler
+		",Metal Claw,Bubble,Leer,Vicegrip,Harden,Leer,Vicegrip,Harden,Mud Shot,Stomp,Guillotine,Protect,Crabhammer,Flail,,,
+"
+		Cubone
+		",Growl,Tail Whip,Bone Club,Headbutt,Leer,Focus Energy,Bonemerang,Rage,False Swipe,Thrash,Bone Rush,Double-edge,,,,,
+"
+		Marowak
+		",Growl,Tail Whip,Bone Club,Headbutt,Tail Whip,Bone Club,Headbutt,Leer,Focus Energy,Bonemerang,Rage,False Swipe,Thrash,Bone Rush,Double-edge,,
+"
+		Hitmonlee
+		",Revenge,Double Kick,Meditate,Rolling Kick,Jump Kick,Brick Break,Focus Energy,Hi Jump Kick,Mind Reader,Foresight,Endure,Mega Kick,Reversal,,,,
+"
+		Hitmonchan
+		",Revenge,Comet Punch,Agility,Pursuit,Mach Punch,Thunderpunch,Ice Punch,Fire Punch,Sky Uppercut,Mega Punch,Detect,Counter,,,,,
+"
+		Lickitung
+		",Lick,Supersonic,Defense Curl,Knock Off,Stomp,Wrap,Disable,Slam,Screech,Refresh,,,,,,,
+"
+		Koffing
+		",Poison Gas,Tackle,Smog,Selfdestruct,Sludge,Smokescreen,Haze,Explosion,Destiny Bond,Memento,,,,,,,
+"
+		Weezing
+		",Poison Gas,Tackle,Smog,Selfdestruct,Smog,Selfdestruct,Sludge,Smokescreen,Haze,Explosion,Destiny Bond,Memento,,,,,
+"
+		Rhyhorn
+		",Horn Attack,Tail Whip,Stomp,Fury Attack,Scary Face,Rock Blast,Horn Drill,Take Down,Earthquake,Megahorn,,,,,,,
+"
+		Rhydon
+		",Horn Attack,Tail Whip,Stomp,Fury Attack,Stomp,Fury Attack,Scary Face,Rock Blast,Horn Drill,Take Down,Earthquake,Megahorn,,,,,
+"
+		Chansey
+		",Pound,Growl,Tail Whip,Refresh,Softboiled,Doubleslap,Minimize,Sing,Egg Bomb,Defense Curl,Light Screen,Double-edge,,,,,
+"
+		Tangela
+		",Ingrain,Constrict,Sleep Powder,Absorb,Growth,Poisonpowder,Vine Whip,Bind,Mega Drain,Stun Spore,Slam,Tickle,,,,,
+"
+		Kangaskhan
+		",Comet Punch,Leer,Bite,Tail Whip,Fake Out,Mega Punch,Rage,Endure,Dizzy Punch,Reversal,,,,,,,
+"
+		Horsea
+		",Bubble,Smokescreen,Leer,Water Gun,Twister,Agility,Hydro Pump,Dragon Dance,,,,,,,,,
+"
+		Staryu
+		",Tackle,Harden,Water Gun,Rapid Spin,Recover,Camouflage,Swift,Bubblebeam,Minimize,Light Screen,Cosmic Power,Hydro Pump,,,,,
+"
+		Starmie
+		",Water Gun,Rapid Spin,Recover,Swift,Confuse Ray,,,,,,,,,,,,
+"
+		Mr. Mime
+		",Barrier,Confusion,Substitute,Meditate,Doubleslap,Light Screen,Reflect,Magical Leaf,Encore,Psybeam,Recycle,Trick,Role Play,Psychic,Baton Pass,Safeguard,
+"
+		Scyther
+		",Quick Attack,Leer,Focus Energy,Pursuit,False Swipe,Agility,Wing Attack,Slash,Swords Dance,Double Team,Fury Cutter,,,,,,
+"
+		Jynx
+		",Pound,Lick,Lovely Kiss,Powder Snow,Lovely Kiss,Powder Snow,Doubleslap,Ice Punch,Mean Look,Fake Tears,Body Slam,Perish Song,Blizzard,,,,
+"
+		Seadra
+		",Bubble,Smokescreen,Leer,Water Gun,Smokescreen,Leer,Water Gun,Twister,Agility,Hydro Pump,Dragon Dance,,,,,,
+"
+		Goldeen
+		",Peck,Tail Whip,Water Sport,Supersonic,Horn Attack,Flail,Fury Attack,Waterfall,Horn Drill,Agility,Megahorn,,,,,,
+"
+		Seaking
+		",Peck,Tail Whip,Water Sport,Supersonic,Supersonic,Horn Attack,Flail,Fury Attack,Waterfall,Horn Drill,Agility,Megahorn,,,,,
+"
+		Electabuzz
+		",Quick Attack,Leer,Thunderpunch,Thunderpunch,Light Screen,Swift,Screech,Thunderbolt,Thunder,,,,,,,,
+"
+		Magmar
+		",Ember,Leer,Smog,Fire Punch,Leer,Smog,Fire Punch,Smokescreen,Sunny Day,Flamethrower,Confuse Ray,Fire Blast,,,,,
+"
+		Pinsir
+		",Vicegrip,Focus Energy,Bind,Seismic Toss,Harden,Revenge,Brick Break,Guillotine,Submission,Swords Dance,,,,,,,
+"
+		Tauros
+		",Tackle,Tail Whip,Rage,Horn Attack,Scary Face,Pursuit,Swagger,Rest,Thrash,Take Down,,,,,,,
+"
+		Magikarp
+		",Splash,Tackle,Flail,,,,,,,,,,,,,,
+"
+		Gyarados
+		",Thrash,Bite,Dragon Rage,Leer,Twister,Hydro Pump,Rain Dance,Dragon Dance,Hyper Beam,,,,,,,,
+"
+		Lapras
+		",Water Gun,Growl,Sing,Mist,Body Slam,Confuse Ray,Perish Song,Ice Beam,Rain Dance,Safeguard,Hydro Pump,Sheer Cold,,,,,
+"
+		Ditto
+		",Transform,,,,,,,,,,,,,,,,
+"
+		Eevee
+		",Tackle,Tail Whip,Helping Hand,Sand-attack,Growl,Quick Attack,Bite,Baton Pass,Take Down,,,,,,,,
+"
+		Vaporeon
+		",Tackle,Tail Whip,Helping Hand,Sand-attack,Water Gun,Quick Attack,Bite,Aurora Beam,Haze,Acid Armor,Hydro Pump,,,,,,
+"
+		Jolteon
+		",Tackle,Tail Whip,Helping Hand,Sand-attack,Thundershock,Quick Attack,Double Kick,Pin Missile,Thunder Wave,Agility,Thunder,,,,,,
+"
+		Flareon
+		",Tackle,Tail Whip,Helping Hand,Sand-attack,Ember,Quick Attack,Bite,Fire Spin,Smog,Leer,Flamethrower,,,,,,
+"
+		Porygon
+		",Conversion 2,Tackle,Conversion,Agility,Psybeam,Recover,Sharpen,Lock-on,Tri Attack,Recycle,Zap Cannon,,,,,,
+"
+		Omanyte
+		",Constrict,Withdraw,Bite,Water Gun,Mud Shot,Leer,Protect,Tickle,Ancientpower,Hydro Pump,,,,,,,
+"
+		Omastar
+		",Constrict,Withdraw,Bite,Water Gun,Bite,Water Gun,Mud Shot,Leer,Protect,Spike Cannon,Tickle,Ancientpower,Hydro Pump,,,,
+"
+		Kabuto
+		",Scratch,Harden,Absorb,Leer,Mud Shot,Sand-attack,Endure,Metal Sound,Mega Drain,Ancientpower,,,,,,,
+"
+		Kabutops
+		",Fury Cutter,Scratch,Harden,Absorb,Leer,Absorb,Leer,Mud Shot,Sand-attack,Endure,Slash,Metal Sound,Mega Drain,Ancientpower,,,
+"
+		Aerodactyl
+		",Wing Attack,Agility,Bite,Supersonic,Ancientpower,Scary Face,Take Down,Hyper Beam,,,,,,,,,
+"
+		Snorlax
+		",Tackle,Amnesia,Defense Curl,Belly Drum,Headbutt,Yawn,Rest,Snore,Body Slam,Sleep Talk,Block,Covet,Rollout,Hyper Beam,,,
+"
+		Articuno
+		",Gust,Powder Snow,Mist,Agility,Mind Reader,Ice Beam,Reflect,Blizzard,Sheer Cold,,,,,,,,
+"
+		Zapdos
+		",Peck,Thundershock,Thunder Wave,Agility,Detect,Drill Peck,Charge,Light Screen,Thunder,,,,,,,,
+"
+		Moltres
+		",Wing Attack,Ember,Fire Spin,Agility,Endure,Flamethrower,Safeguard,Heat Wave,Sky Attack,,,,,,,,
+"
+		Dratini
+		",Wrap,Leer,Thunder Wave,Twister,Dragon Rage,Slam,Agility,Safeguard,Outrage,Hyper Beam,,,,,,,
+"
+		Dragonite
+		",Wrap,Leer,Thunder Wave,Twister,Thunder Wave,Twister,Dragon Rage,Slam,Agility,Safeguard,Wing Attack,Outrage,Hyper Beam,,,,
+"
+		Mewtwo
+		",Confusion,Disable,Barrier,Mist,Swift,Recover,Safeguard,Psychic,Psych Up,Future Sight,Amnesia,,,,,,
+"
+		Mew
+		",Pound,Transform,Mega Punch,Metronome,Psychic,Ancientpower,,,,,,,,,,,
+"
+		Dragonair
+		",Wrap,Leer,Thunder Wave,Twister,Thunder Wave,Twister,Dragon Rage,Slam,Agility,Safeguard,Outrage,Hyper Beam,,,,,
